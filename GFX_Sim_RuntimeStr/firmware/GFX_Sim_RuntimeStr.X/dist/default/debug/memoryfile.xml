@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/debug/GFX_Sim_RuntimeStr.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>520093696</length>
+      <used>852160</used>
+      <free>519241536</free>
+    </memory>
+  </executable>
+</project>
